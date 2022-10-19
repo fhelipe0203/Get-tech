@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Get-tech/static/css/main.5cbf6f43.css",
+    "main.js": "/Get-tech/static/js/main.e016794d.js",
+    "static/media/img-9.jpg": "/Get-tech/static/media/img-9.3ca59f8a5d4de44ea01c.jpg",
+    "static/media/img-2.jpg": "/Get-tech/static/media/img-2.1184a6d8212224b09624.jpg",
+    "static/media/bg.webp": "/Get-tech/static/media/bg.7395f5bb6aa9a76402c0.webp",
+    "index.html": "/Get-tech/index.html",
+    "main.5cbf6f43.css.map": "/Get-tech/static/css/main.5cbf6f43.css.map",
+    "main.e016794d.js.map": "/Get-tech/static/js/main.e016794d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cbf6f43.css",
+    "static/js/main.e016794d.js"
+  ]
+}
